@@ -3,7 +3,7 @@
 This repository contains several Java projects, each addressing a different problem or functionality. Below is a summary of each project along with their details and instructions.
 
 ## Table of Contents
-- [Project 01: Number Filtering and Combination](#project-01-number-filtering-and-combination)
+- [Project 01: Number Filtering and Combination](#https://github.com/KKostika/ChristmasProject/blob/main/src/gr/kiki/Project01.java)
 - [Project 02: Maximum Sum Subarray](#project-02-maximum-sum-subarray)
 - [Project 03: Character Frequency](#project-03-character-frequency)
 - [Project 04: Tic-Tac-Toe Game](#project-04-tic-tac-toe-game)
