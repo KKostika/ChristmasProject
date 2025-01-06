@@ -1,25 +1,21 @@
-# ChristmasProject
- 
-# Java Algorithm Exercises
+# Java Projects
 
-Welcome to the Java Algorithm Exercises repository! This repo contains a collection of coding exercises focused on various algorithms implemented in Java.
+This repository contains several Java projects, each addressing a different problem or functionality. Below is a summary of each project along with their details and instructions.
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Exercises](#exercises)
-  - [Exercise 1: Binary Search](#exercise-1-binary-search)
-  - [Exercise 2: Bubble Sort](#exercise-2-bubble-sort)
-  - [Exercise 3: Linked List Implementation](#exercise-3-linked-list-implementation)
-  - [Exercise 4: Fibonacci Sequence](#exercise-4-fibonacci-sequence)
-- [Contributing](#contributing)
+- [Project 01: Number Filtering and Combination](#project-01-number-filtering-and-combination)
+- [Project 02: Maximum Sum Subarray](#project-02-maximum-sum-subarray)
+- [Project 03: Character Frequency](#project-03-character-frequency)
+- [Project 04: Tic-Tac-Toe Game](#project-04-tic-tac-toe-game)
+- [Project 05: Theater Management](#project-05-theater-management)
 - [License](#license)
 
-## Introduction
-This repository aims to help Java developers improve their understanding of algorithms by providing a set of practical exercises. Each exercise is designed to challenge and enhance your problem-solving skills.
+## Project 01: Number Filtering and Combination
 
-## Getting Started
-To get started, clone this repository to your local machine using the following command:
+### Description
+This project reads integers from a file (more than 6 and at most 49 numbers ranging from 1 to 49), sorts them, generates all possible combinations of 6 numbers, and filters each combination based on specific criteria. The final combinations are saved in a .txt file.
 
-```sh
-git clone https://github.com/your-username/java-algorithm-exercises.git
+### Getting Started
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/multi-java-projects.git
