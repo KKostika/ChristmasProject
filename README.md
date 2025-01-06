@@ -3,11 +3,11 @@
 This repository contains several Java projects, each addressing a different problem or functionality. Below is a summary of each project along with their details and instructions.
 
 ## Table of Contents
-- [Project 01: Number Filtering and Combination](#https://github.com/KKostika/ChristmasProject/blob/main/src/gr/kiki/Project01.java)
-- [Project 02: Maximum Sum Subarray](#project-02-maximum-sum-subarray)
-- [Project 03: Character Frequency](#project-03-character-frequency)
-- [Project 04: Tic-Tac-Toe Game](#project-04-tic-tac-toe-game)
-- [Project 05: Theater Management](#project-05-theater-management)
+- [Project 01: Number Filtering and Combination]
+- [Project 02: Maximum Sum Subarray]
+- [Project 03: Character Frequency]
+- [Project 04: Tic-Tac-Toe Game]
+- [Project 05: Theater Management]
 - [License](#license)
 
 ## Project 01: Number Filtering and Combination
@@ -18,4 +18,4 @@ This project reads integers from a file (more than 6 and at most 49 numbers rang
 ### Getting Started
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/multi-java-projects.git
+   git clone https://github.com/KKostika/ChristmasProject.git
